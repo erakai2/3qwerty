@@ -1,0 +1,41 @@
+body {
+    background-color: #f5f8fd;
+}
+
+p {
+    font-size: 22px;
+}
+
+h1 {
+    color: rgb(20, 38, 77);
+}
+
+.barca1 {
+    background-color: #004d98;
+    color: white;
+}
+
+.barca2 {
+    background-color: rgb(165, 0, 68);
+    color: white;
+}
+
+.real {
+    background-color: white;
+    color: #14264d;
+}
+
+.chelsea {
+    background-color: #034694;
+    color: white;
+}
+
+.liverpool {
+    background-color: rgb(200, 16, 46);
+    color: white;
+}
+
+.liverpool2 {
+    background-color: rgba(200, 16, 46, 0.5);
+    color: #14264d;
+}
